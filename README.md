@@ -6,5 +6,5 @@ Here we employ survival theory to capture the diffusion property of cascades, re
 <img src="abstract.png">
 
 ---
-<strong>Edited on Sep. 10th, 2018</strong><br>
+<strong>Edited on Aug. 20th, 2018</strong><br>
 - Contact <a href="http://chaoqiyang.com">Chaoqi Yang</a> at ycqsjtu@gmail.com, Shanghai Jiao Tong University for more information!
